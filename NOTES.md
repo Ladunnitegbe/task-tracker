@@ -452,9 +452,7 @@ function TaskTable({ tasks, onToggle, onSave, onDelete }) {
 
 # Question 3
 **One thing AI got wrong or missed**, and how you noticed.
-
-
-
+I am currently learning React and I honestly can't identify properly issues with React code by myself at the moment. I intend to study further to verify the response from both AI chats.
 
 **I initially ChatGPT to check the improvements, I used this prompt**
 
